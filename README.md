@@ -38,7 +38,7 @@ The refined `custom_f1_master_dataset.csv` pipeline maps clean analytics into an
 ### 🎬 Interactive Dashboard Demonstration Video
 Click the play video player below to watch the interactive features, filtering, and responsive metrics in action:
 
-https://github.com/prasshhhzanth/dashboard.mp4
+[https://github.com/prasshhhzanth/dashboard.mp4](https://github.com/prasshhhzanth/f1-data-analysis/blob/main/dashboard.mp4)
 
 ### ⚙️ Operational KPIs Modeled:
 *   **Mechanical DNF Rate (0.64):** Evaluates asset depreciation, failures, and manufacturing/engineering downtime patterns across competing eras.
