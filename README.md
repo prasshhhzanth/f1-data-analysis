@@ -35,15 +35,11 @@ The refined `custom_f1_master_dataset.csv` pipeline maps clean analytics into an
 
 The refined `custom_f1_master_dataset.csv` pipeline maps clean analytics into an interactive business intelligence environment built for performance tracking.
 
-### 🎬 Interactive Dashboard Demonstration & Live Preview
-*Click the preview player below to view the interactive features, metric filtering, and responsive charts in action:*
+### 🎬 Interactive Dashboard Demonstration Video
+Click the play video player below to watch the interactive features, filtering, and responsive metrics in action:
 
-<video width="100%" height="auto" poster="dashboard.png" controls>
-  <source src="dashboard.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can view the raw video file directly <a href="dashboard.mp4">here</a>.
-</video>
+https://github.com/user-attachments/assets/dashboard.mp4
 
----
 ### ⚙️ Operational KPIs Modeled:
 *   **Mechanical DNF Rate (0.64):** Evaluates asset depreciation, failures, and manufacturing/engineering downtime patterns across competing eras.
 *   **Sum of Pitstops (12K):** Aggregates logistical activities to look into multi-variable operational workloads.
